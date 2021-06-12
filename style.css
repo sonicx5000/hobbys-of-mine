@@ -1,0 +1,41 @@
+html {
+    background-color: grey;
+}
+
+body {
+    text-align: center;
+    back
+}
+
+#hobby1 {
+    color: blue;
+}
+
+.line {
+    height: 6px;
+    background-color: #ff0008;
+    width: 200px;
+    margin: 8px auto;
+}
+
+img {
+    border-radius: 50%;
+    width: 600;
+}
+
+.menu {
+    font-family: 'JetBrains Mono';
+    position: fixed;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+    background: grey;
+    width: 100%;
+    text-align: center;
+    list-style: none;
+}
+
+h1 {
+    text-align: center;
+}
